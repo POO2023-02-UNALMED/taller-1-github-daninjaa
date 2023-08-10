@@ -1,0 +1,1 @@
+La carpeta ahora tiene un archivo, y GitHub la reconoce
